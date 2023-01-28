@@ -1,4 +1,2 @@
-# Karma-Overload
-Premium version of "Karma".
-Readme still under development.
-
+# Karma
+Forked from Klyser8's Karma-Overload plugin. All credit goes to him for the source code.
